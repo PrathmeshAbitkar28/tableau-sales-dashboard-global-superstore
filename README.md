@@ -1,114 +1,48 @@
-# 🚢 Titanic EDA: Survival Analysis
+# 📊 Tableau Dashboard – Global Superstore Dataset
 
-A comprehensive **Exploratory Data Analysis (EDA)** project on the Titanic dataset to understand patterns behind passenger survival. This project focuses on uncovering key insights using Python and visualizations to support data-driven hypotheses.
-
----
-
-## 📌 Objectives
-- Perform **data cleaning** and **preprocessing** of the Titanic dataset.
-- Explore and visualize key features impacting **passenger survival**.
-- Identify **correlations and patterns** using statistical and visual tools.
-- Build a foundation for future **predictive modeling**.
-
----
-
-## 🛠 Tools & Technologies
-- **Python**
-- **Jupyter Notebook**
-- **Pandas** – data manipulation
-- **NumPy** – numerical analysis
-- **Matplotlib & Seaborn** – data visualization
-
----
-
-## 📊 Key Analyses
-- Distribution of survival by **gender**, **passenger class**, **age**, and **family size**
-- Impact of **fare**, **embarked location**, and **cabin availability**
-- Correlation heatmaps to assess relationships between variables
-- Handling of **missing data** and feature engineering (e.g., Title extraction from names)
-
----
-
-## 📷 Sample Visuals
-_Add screenshots or graphs here (e.g., survival rate bar plot, heatmap, etc.)_
-
----
-
-## 🔍 Findings
-- **Females** and **1st class passengers** had significantly higher survival rates.
-- Younger passengers and those with smaller families were more likely to survive.
-- Certain titles (e.g., “Master”, “Miss”) provided insight into age and social status.
-
----
-
-## 📁 Files Included
-- `titanic_eda.ipynb` – main analysis notebook
-- `titanic.csv` – dataset (or link to Kaggle)
-- `images/` – visualizations (if any)
-
----
-
-## 📥 Dataset Source
-- [Kaggle Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-
----
-
-## ✅ Status
-✅ Completed – open for enhancements like logistic regression or model building.
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
----
-
-# 📊 Tableau Dashboard Project – Global Superstore Dataset
-
-An interactive **sales and profit analysis dashboard** built using Tableau on the Global Superstore dataset. This project demonstrates core concepts of **data visualization**, **KPI tracking**, and **business intelligence reporting**.
+An interactive **Sales and Profit Analysis Dashboard** created using **Tableau** and the Global Superstore dataset. This project demonstrates the use of **data visualization**, **KPI tracking**, and **business intelligence** for executive-level reporting and decision-making.
 
 ---
 
 ## 📌 Objectives
-- Create a dynamic Tableau dashboard for sales and profit performance monitoring.
-- Use filters, charts, and interactivity to enable regional and category-level insights.
-- Simulate a real-world **business intelligence** use case for executives.
+- Build a dynamic dashboard for analyzing **sales**, **profit**, and **order trends**.
+- Provide region-wise and category-wise performance insights using visual tools.
+- Enable stakeholders to identify high-performing areas and operational bottlenecks.
 
 ---
 
 ## 🛠 Tools & Technologies
 - **Tableau Public**
-- **Excel (for data preparation)**
+- **Microsoft Excel** (data preparation)
+- **Global Superstore dataset**
 
 ---
 
 ## 📊 Key Features
-- **KPI Cards** displaying Total Sales, Profit, and Orders.
-- Interactive filters by **Region**, **Category**, **Sub-Category**, and **Shipping Mode**.
-- Time-based trend charts with **month-level granularity**.
-- Highlighting **top-performing** and **underperforming regions and categories**.
+- **KPI Cards** showing total sales, profit, and order count.
+- **Filters** for Region, Category, Sub-Category, and Shipping Mode.
+- **Time-series visualizations** with monthly sales and profit trends.
+- **Geographical maps** highlighting regional performance.
+- Use of **calculated fields**, **parameters**, and **interactive dashboards**.
 
 ---
 
-## 📷 Sample Visuals
-_Add screenshots of your Tableau dashboard here (KPI cards, regional map, profit trends, etc.)_
-
----
-
-## 🔍 Findings
-- West and East regions are the highest contributors to total sales.
-- Some categories such as **Technology** consistently yield higher profits.
-- Certain states or shipping methods lead to **negative profit margins**.
+## 🔍 Insights & Findings
+- **Technology** category drives the highest profit margins.
+- Some **states consistently underperform**, impacting overall profitability.
+- **Standard Class shipping** is most common but not always profitable.
+- The **West region** outperforms others in both sales and profit.
 
 ---
 
 ## 📁 Files Included
-- Tableau dashboard `.twbx` file (or Tableau Public link)
-- Excel data file (`global_superstore.xls` or `.csv`)
+- `global_superstore_dashboard.twbx` – Tableau dashboard file.
+- `Global Superstore.xls` – Dataset used in the dashboard.
 
 ---
 
-## 🌐 Dashboard Link
-- _[Add Tableau Public link here if available]_
+## 🌐 Live Dashboard
+- _[Insert Tableau Public link here if hosted online]_
 
 ---
 
