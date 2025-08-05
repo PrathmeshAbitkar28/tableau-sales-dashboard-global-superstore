@@ -37,7 +37,7 @@ An interactive **Sales and Profit Analysis Dashboard** created using **Tableau**
 
 ## 📁 Files Included
 - `Book1.twbx` – Tableau dashboard file.
-- `superstore.xls` – Dataset used in the dashboard.
+- `superstore.csv` – Dataset used in the dashboard.
 
 ---
 
