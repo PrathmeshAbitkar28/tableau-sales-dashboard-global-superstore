@@ -41,10 +41,5 @@ An interactive **Sales and Profit Analysis Dashboard** created using **Tableau**
 
 ---
 
-## 🌐 Live Dashboard
-- _[Insert Tableau Public link here if hosted online]_
-
----
-
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
